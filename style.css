@@ -6,11 +6,11 @@ body{
 }
 .navbar, .navbar-nav, .nav-link {
     background-color:#092635;
-    color: wheat !important;
+    color: #F99417 !important;
     padding: 5px 1%;
 }
 .navbar-brand{
-    color: wheat !important;
+    color: #F99417 !important;
 }
 .navbar{
     position: relative;
@@ -60,7 +60,7 @@ h5{
 }
 
 .card:hover{
-    color: wheat;
+    color: #F99417;
     background-color: #092635;
     .card-img-top{
         opacity: 1;
@@ -88,7 +88,7 @@ h5{
     display: inline;
 }
 .navbar-toggler:focus{
-    color: wheat !important;
+    color: #F99417 !important;
 }
 .carousel-item img {
     height: 35rem;
@@ -96,9 +96,9 @@ h5{
 }
 .btn{
     background-color: #092635;
-    color: wheat;
+    color: #F99417;
 }
 .btn:hover{
     color: white !important;
-    border: 1px solid wheat !important;
+    border: 1px solid #F99417 !important;
 }

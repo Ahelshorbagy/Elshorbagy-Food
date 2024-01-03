@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    padding: 60px 0;
+}
+
+section {
+    background: rgb(201,184,151);
+    background: radial-gradient(circle, rgba(201,184,151,1) 0%, rgba(245,231,204,1) 100%);
+    padding: 36px 0;
+    color:#746666;
+}
