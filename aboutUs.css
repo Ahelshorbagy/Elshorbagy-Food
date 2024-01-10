@@ -4,10 +4,20 @@
     gap: 40px;
     padding: 60px 0;
 }
+.about-content p{
+    padding-left: 20px;
+
+}
 
 section {
-    background: rgb(201,184,151);
-    background: radial-gradient(circle, rgba(201,184,151,1) 0%, rgba(245,231,204,1) 100%);
+    background: rgba(13, 167, 213, 0.674);
+    background: radial-gradient(circle, rgba(86, 87, 140, 0.163) 0%, rgba(137, 169, 224, 0.305) 100%);
     padding: 36px 0;
-    color:#746666;
+    color:#261919;
+}
+.menu-content p{
+    padding-left: 20px;
+}
+menu-item p{
+    padding-left: 60px;
 }
