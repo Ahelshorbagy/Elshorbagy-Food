@@ -2,15 +2,15 @@
     font-family:'Poppins',sans-serif;
 }
 body{
-    background-color: rgb(245, 231, 204);
+    background-color: rgb(244, 240, 234);
 }
 .navbar, .navbar-nav, .nav-link {
-    background-color:#092635;
-    color: #F99417 !important;
+    background-color:#2b81ac;
+    color: #f2ece4 !important;
     padding: 5px 1%;
 }
 .navbar-brand{
-    color: #F99417 !important;
+    color: #050504 !important;
 }
 .navbar{
     position: relative;
@@ -34,7 +34,7 @@ h5{
     font-weight: bold;
 }
 .carousel-caption{
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(67, 87, 171, 0.5);
 }
 
 .carousel-control-next, .carousel-control-prev :focus{
@@ -42,7 +42,7 @@ h5{
 }
 
 .carousel-control-prev, .carousel-control-next :focus{
-    background-color: rgba(0, 0, 0, 0.5); 
+    background-color: rgba(111, 106, 186, 0.5); 
 }
 .card-img, .card-img-top{
     max-height: 190px;
@@ -55,19 +55,19 @@ h5{
     background-color: inherit;
 }
 .card{
-    border: #092635 solid 1px;
+    border: #4a95ba solid 1px;
     height: 100%;
 }
 
 .card:hover{
-    color: #F99417;
-    background-color: #092635;
+    color:    #4377c4;
+    background-color: #f8f9fa;
     .card-img-top{
         opacity: 1;
     }
 }
 .footer-text{
-    color: #092635 !important;
+    color: #1499dc !important;
 }
 .form-title{
     text-align: center;
@@ -81,24 +81,24 @@ h5{
     
 }
 .fa-bars :hover{
-    color: white !important;
+    color: rgb(246, 228, 228) !important;
 }
 .navbar-toggler-icon {
     background-image: none !important;
     display: inline;
 }
 .navbar-toggler:focus{
-    color: #F99417 !important;
+    color: rgb(45, 155, 192) !important;
 }
 .carousel-item img {
     height: 35rem;
     object-fit: cover;
 }
 .btn{
-    background-color: #092635;
-    color: #F99417;
+    background-color: #346d89;
+    color: #3ac1d8;
 }
 .btn:hover{
-    color: white !important;
-    border: 1px solid #F99417 !important;
+    color: rgb(63, 155, 216) !important;
+    border: 1px solid #2d5695 !important;
 }
