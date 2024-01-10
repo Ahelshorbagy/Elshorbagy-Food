@@ -21,3 +21,15 @@ section {
 menu-item p{
     padding-left: 60px;
 }
+h3 {
+    padding-left: 20px;
+    font-weight: 400;
+}
+
+h2 {
+    /* padding-left: 20px; */
+    text-align: center;
+}
+section {
+    border-radius: 15px;
+}
